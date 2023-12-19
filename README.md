@@ -39,7 +39,7 @@ Existem dois tipos principais de middleware no Laravel:
 
 ### 3. Criando Middleware Personalizado
 
-Você pode criar middleware personalizado usando o seguinte comando Artisan:
+Você pode criar middleware personalizado usando o seguinte comando Artisan::
 
 ```bash
 php artisan make:middleware SeuMiddleware
